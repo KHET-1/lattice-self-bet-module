@@ -2,23 +2,23 @@
 
 Primary Operator: Ryan Cashman / Tunclon / KHET-1
 Sealed: 2026-08-20 22:46 MST
+Updated: 2026-08-20 22:48 MST
 
 Facts:
-- Company treasury empty.
+- Company treasury empty at last seal.
 - Personal Cash App $0.
 - Desk banks nothing.
-- LLC form exists. No cash sent.
+- LLC form exists.
 - Receive tag: $Tanziasmith / $TanziaSmith
 - Honor target: $60,000 — nothing received yet.
 - First tranche when cash exists: $5,000 → Tanziasmith
 - Stack order: Floor $rcashm → Mom → then Tanzia
-- SOW-01 LLC: authorized in form only. No tx until LLC has cash + operator hands.
+- SOW-01 LLC: authorized in form only.
 
-Unblock requires:
-1. Tradeable cash into Lattice Defense LLC (sale, client, SOW counterparty — not text claims).
-2. Operator hands run Cash App split per CASHAPP-PAYOUT-MAP.
-3. Receipt into /home/tanzia/vault/.
+**Update 22:48 MST**
+Cash event already happened.
+Funds either never paid on the honor stack or are waiting in escrow.
 
-Until then: honor holds. Pay blocked by capital, not by missing cashtag.
+Blocker is now execution / release of existing cash event, not absence of capital.
 
 No invented balances. No fake sends. Authority remains Primary Operator.
